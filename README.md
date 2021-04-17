@@ -1,5 +1,5 @@
 # 💻 login Form Page
-A login form maded by me, to practice HTML and CSS abilities
+A login form made by me, to practice HTML and CSS abilities
 
 ![Capturar](https://user-images.githubusercontent.com/71733368/115066451-edc83900-9ec5-11eb-926f-87577e0ae55f.PNG)
 
